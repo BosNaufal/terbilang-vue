@@ -1,5 +1,5 @@
 # Terbilang Vue
-[Vue](http://vuejs.org) Filter to Convert Number into Indonesian words.
+[Vue](http://vuejs.org) Filter to Convert Number into Indonesian words. Adapted from [Terbilang.js](https://github.com/BosNaufal/terbilang-js)
 
 [DEMO](http://codepen.io/BosNaufal/pen/GoGLZY?editors=1010)
 
